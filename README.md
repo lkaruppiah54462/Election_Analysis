@@ -7,11 +7,11 @@ Given the task of analzing the election results
 4. Calculate the % of votes each candidate received
 5. Determine the winner of election based on popular vote
 
-##Resources
+## Resources
 1. election_results.csv
 2. python 3.7.6, visual studio code : 1.45.1
 
-##Summary
+## Summary
 The Analysis shows that :
 - Total number of votes  : 369,711
 - The candidats are :
@@ -25,7 +25,7 @@ The Analysis shows that :
  The winner of the election was :
   Diana Degette who received 73.8% of the vote and 272,892 number of votes
   
-##Challeng Overview
+## Challeng Overview
 
-##Challenge Summary
+## Challenge Summary
 
